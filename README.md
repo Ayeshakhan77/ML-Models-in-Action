@@ -15,16 +15,6 @@ The goal of this project is to:
 
 ---
 
-## 🧠 Models Covered
-
-### 🔹 Regression
-- Linear Regression
-- Multiple Linear Regression
-- Polynomial Regression
-
-I will add more models in future
----
-
 Each model folder includes:
 - Dataset (or dataset link)
 - Jupyter notebooks / scripts
